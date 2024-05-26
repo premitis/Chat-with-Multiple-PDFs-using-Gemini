@@ -1,0 +1,12 @@
+#requirements.txt -> 
+#A common way to specify the external libraries required for a Python project.
+
+# Environment variables are user-defined settings that can influence how a program behaves. They are stored outside of the program's code itself and can be accessed by the program during runtime.
+
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+faiss-cpu
+langchain_google_genai
